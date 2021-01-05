@@ -1,0 +1,1730 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr User 14701 10456
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4200 2100 4000 2100
+Text Label 4000 2100 2    70   ~ 0
+A13
+Wire Wire Line
+	5350 6550 5350 6350
+Text Label 5350 6350 1    70   ~ 0
+A13
+Wire Wire Line
+	6350 3150 6150 3150
+Text Label 6150 3150 2    70   ~ 0
+A13
+Wire Wire Line
+	4200 2200 4000 2200
+Text Label 4000 2200 2    70   ~ 0
+A8
+Wire Wire Line
+	5550 6550 5550 6350
+Text Label 5550 6350 1    70   ~ 0
+A8
+Wire Wire Line
+	6350 2650 6150 2650
+Text Label 6150 2650 2    70   ~ 0
+A8
+Wire Wire Line
+	4200 2300 4000 2300
+Text Label 4000 2300 2    70   ~ 0
+A6
+Wire Wire Line
+	5750 6550 5750 6350
+Text Label 5750 6350 1    70   ~ 0
+A6
+Wire Wire Line
+	6350 2450 6150 2450
+Text Label 6150 2450 2    70   ~ 0
+A6
+Wire Wire Line
+	4200 2400 4000 2400
+Text Label 4000 2400 2    70   ~ 0
+A10
+Wire Wire Line
+	5950 6550 5950 6350
+Text Label 5950 6350 1    70   ~ 0
+A10
+Wire Wire Line
+	6350 2850 6150 2850
+Text Label 6150 2850 2    70   ~ 0
+A10
+Wire Wire Line
+	6150 6550 6150 6350
+Text Label 6150 6350 1    70   ~ 0
+A15
+Wire Wire Line
+	4550 5200 4350 5200
+Text Label 4350 5200 2    70   ~ 0
+A15
+Wire Wire Line
+	6250 6400 6250 6200
+Text Label 6250 6200 1    70   ~ 0
+A9
+Wire Wire Line
+	4200 2900 4000 2900
+Text Label 4000 2900 2    70   ~ 0
+A9
+Wire Wire Line
+	6350 2750 6150 2750
+Text Label 6150 2750 2    70   ~ 0
+A9
+Wire Wire Line
+	6050 6400 6050 6200
+Text Label 6050 6200 1    70   ~ 0
+A11
+Wire Wire Line
+	4200 3000 4000 3000
+Text Label 4000 3000 2    70   ~ 0
+A11
+Wire Wire Line
+	6350 2950 6150 2950
+Text Label 6150 2950 2    70   ~ 0
+A11
+Wire Wire Line
+	5850 6400 5850 6200
+Text Label 5850 6200 1    70   ~ 0
+A7
+Wire Wire Line
+	4200 3100 4000 3100
+Text Label 4000 3100 2    70   ~ 0
+A7
+Wire Wire Line
+	6350 2550 6150 2550
+Text Label 6150 2550 2    70   ~ 0
+A7
+Wire Wire Line
+	5650 6400 5650 6200
+Text Label 5650 6200 1    70   ~ 0
+A12
+Wire Wire Line
+	4200 3200 4000 3200
+Text Label 4000 3200 2    70   ~ 0
+A12
+Wire Wire Line
+	6350 3050 6150 3050
+Text Label 6150 3050 2    70   ~ 0
+A12
+Wire Wire Line
+	5450 6400 5450 6200
+Text Label 5450 6200 1    70   ~ 0
+A14
+Wire Wire Line
+	4550 5300 4350 5300
+Text Label 4350 5300 2    70   ~ 0
+A14
+Wire Wire Line
+	5250 6400 5250 6200
+Text Label 5250 6200 1    70   ~ 0
+A1
+Wire Wire Line
+	6350 1950 6150 1950
+Text Label 6150 1950 2    70   ~ 0
+A1
+Wire Wire Line
+	9800 4950 9800 5150
+Text Label 9800 5150 3    70   ~ 0
+A1
+Wire Wire Line
+	5150 6550 5150 6350
+Text Label 5150 6350 1    70   ~ 0
+A0
+Wire Wire Line
+	7350 3450 7550 3450
+Text Label 7550 3450 0    70   ~ 0
+A0
+Wire Wire Line
+	9600 4950 9600 5150
+Text Label 9600 5150 3    70   ~ 0
+A0
+Wire Wire Line
+	5050 6400 5050 6200
+Text Label 5050 6200 1    70   ~ 0
+A3
+Wire Wire Line
+	6350 2150 6150 2150
+Text Label 6150 2150 2    70   ~ 0
+A3
+Wire Wire Line
+	10000 4950 10000 5150
+Text Label 10000 5150 3    70   ~ 0
+A3
+Wire Wire Line
+	4950 6550 4950 6350
+Text Label 4950 6350 1    70   ~ 0
+A2
+Wire Wire Line
+	6350 2050 6150 2050
+Text Label 6150 2050 2    70   ~ 0
+A2
+Wire Wire Line
+	9900 4950 9900 5150
+Text Label 9900 5150 3    70   ~ 0
+A2
+Wire Wire Line
+	4850 6400 4850 6200
+Text Label 4850 6200 1    70   ~ 0
+A5
+Wire Wire Line
+	4200 3300 4000 3300
+Text Label 4000 3300 2    70   ~ 0
+A5
+Wire Wire Line
+	6350 2350 6150 2350
+Text Label 6150 2350 2    70   ~ 0
+A5
+Wire Wire Line
+	4750 6550 4750 6350
+Text Label 4750 6350 1    70   ~ 0
+A4
+Wire Wire Line
+	6350 2250 6150 2250
+Text Label 6150 2250 2    70   ~ 0
+A4
+Wire Wire Line
+	10100 4950 10100 5150
+Text Label 10100 5150 3    70   ~ 0
+A4
+Wire Wire Line
+	4800 2700 5000 2700
+Text Label 5000 2700 0    70   ~ 0
+~H/L
+Wire Wire Line
+	4550 5400 4350 5400
+Text Label 4350 5400 2    70   ~ 0
+~H/L
+Wire Wire Line
+	4550 5500 4350 5500
+Text Label 4350 5500 2    70   ~ 0
+~WR
+Wire Wire Line
+	6650 6400 6650 6200
+Text Label 6650 6200 1    70   ~ 0
+~WR
+Wire Wire Line
+	3250 2500 4200 2500
+Text Label 3250 2500 0    10   ~ 0
+VCC
+Wire Wire Line
+	3400 2600 4200 2600
+Text Label 3400 2600 0    10   ~ 0
+VCC
+Wire Wire Line
+	3550 2700 4200 2700
+Text Label 3550 2700 0    10   ~ 0
+VCC
+Wire Wire Line
+	3700 2800 4200 2800
+Text Label 3700 2800 0    10   ~ 0
+VCC
+Wire Wire Line
+	6000 4700 5800 4700
+Text Label 6000 4700 0    10   ~ 0
+VCC
+Wire Wire Line
+	3450 6050 3450 6400
+Text Label 3450 6050 0    10   ~ 0
+VCC
+Wire Wire Line
+	3250 6050 3250 6400
+Text Label 3250 6050 0    10   ~ 0
+VCC
+Wire Wire Line
+	3050 1550 2800 1550
+Wire Wire Line
+	2800 1550 2500 1550
+Wire Wire Line
+	2500 1550 2250 1550
+Wire Wire Line
+	2250 1550 2000 1550
+Wire Wire Line
+	2000 1550 1600 1550
+Connection ~ 2800 1550
+Connection ~ 2500 1550
+Connection ~ 2250 1550
+Connection ~ 2000 1550
+Text Label 3050 1550 0    10   ~ 0
+VCC
+Wire Wire Line
+	10600 4950 10700 4950
+Wire Wire Line
+	10700 4950 10800 4950
+Wire Wire Line
+	10700 4950 10700 5050
+Connection ~ 10700 4950
+Text Label 10600 4950 0    10   ~ 0
+VCC
+Wire Wire Line
+	9700 5450 9700 4950
+Text Label 9700 5450 0    10   ~ 0
+VCC
+Wire Wire Line
+	3900 1450 3900 1650
+Wire Wire Line
+	3900 1650 3900 1850
+Connection ~ 3900 1650
+Text Label 3900 1450 0    10   ~ 0
+VCC
+Wire Wire Line
+	10200 1750 10200 1850
+Text Label 10200 1750 0    10   ~ 0
+VCC
+Wire Wire Line
+	12900 2750 12700 2750
+Text Label 12900 2750 0    10   ~ 0
+VCC
+Wire Wire Line
+	8500 3250 8600 3250
+Text Label 8500 3250 0    10   ~ 0
+VCC
+Wire Wire Line
+	11500 1750 11500 1850
+Text Label 11500 1750 0    10   ~ 0
+VCC
+Wire Wire Line
+	3550 4200 3550 4100
+Wire Wire Line
+	3550 4100 3300 4100
+Connection ~ 3550 4100
+Text Label 3550 4200 0    10   ~ 0
+VCC
+Wire Wire Line
+	10700 1750 10700 1850
+Text Label 10700 1750 0    10   ~ 0
+VCC
+Wire Wire Line
+	11350 850  11100 850 
+Wire Wire Line
+	11100 850  11000 850 
+Connection ~ 11100 850 
+Text Label 11350 850  0    10   ~ 0
+VCC
+Wire Wire Line
+	1300 3850 1400 3850
+Text Label 1300 3850 0    10   ~ 0
+VCC
+Wire Wire Line
+	1300 2950 1400 2950
+Text Label 1300 2950 0    10   ~ 0
+VCC
+Wire Wire Line
+	2300 3450 2200 3450
+Text Label 2300 3450 0    10   ~ 0
+VCC
+Wire Wire Line
+	2300 4350 2200 4350
+Text Label 2300 4350 0    10   ~ 0
+VCC
+Wire Wire Line
+	12700 4250 12700 4350
+Wire Wire Line
+	12700 4350 12900 4350
+Connection ~ 12700 4350
+Text Label 12700 4250 0    10   ~ 0
+VCC
+Wire Wire Line
+	6000 5600 5800 5600
+Text Label 6000 5600 0    10   ~ 0
+GND
+Wire Wire Line
+	4350 5600 4550 5600
+Text Label 4350 5600 0    10   ~ 0
+GND
+Wire Wire Line
+	4350 4700 4550 4700
+Text Label 4350 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	3850 6050 3850 6400
+Text Label 3850 6050 0    10   ~ 0
+GND
+Wire Wire Line
+	3650 6050 3650 6400
+Text Label 3650 6050 0    10   ~ 0
+GND
+Wire Wire Line
+	1600 1850 2000 1850
+Wire Wire Line
+	2000 1850 2250 1850
+Wire Wire Line
+	2250 1850 2500 1850
+Wire Wire Line
+	2500 1850 2800 1850
+Wire Wire Line
+	2800 1850 3050 1850
+Connection ~ 2800 1850
+Connection ~ 2500 1850
+Connection ~ 2250 1850
+Connection ~ 2000 1850
+Text Label 1600 1850 0    10   ~ 0
+GND
+Wire Wire Line
+	10200 4950 10300 4950
+Wire Wire Line
+	10300 4950 10400 4950
+Wire Wire Line
+	10400 4950 10500 4950
+Wire Wire Line
+	10500 4950 10500 5050
+Connection ~ 10300 4950
+Connection ~ 10400 4950
+Connection ~ 10500 4950
+Text Label 10200 4950 0    10   ~ 0
+GND
+Wire Wire Line
+	11900 4950 11800 4950
+Wire Wire Line
+	11800 4950 11700 4950
+Wire Wire Line
+	11700 4950 11600 4950
+Wire Wire Line
+	11600 4950 11500 4950
+Wire Wire Line
+	11500 4950 11400 4950
+Wire Wire Line
+	11400 4950 11300 4950
+Wire Wire Line
+	11300 4950 11200 4950
+Wire Wire Line
+	11200 4950 11100 4950
+Wire Wire Line
+	11100 4950 11000 4950
+Wire Wire Line
+	11000 4950 10900 4950
+Wire Wire Line
+	11100 4950 11100 5050
+Connection ~ 11000 4950
+Connection ~ 11100 4950
+Connection ~ 11200 4950
+Connection ~ 11300 4950
+Connection ~ 11400 4950
+Connection ~ 11500 4950
+Connection ~ 11600 4950
+Connection ~ 11700 4950
+Connection ~ 11800 4950
+Text Label 11900 4950 0    10   ~ 0
+GND
+Wire Wire Line
+	12000 1750 12000 1850
+Text Label 12000 1750 0    10   ~ 0
+GND
+Wire Wire Line
+	8500 2650 8600 2650
+Text Label 8500 2650 0    10   ~ 0
+GND
+Wire Wire Line
+	8500 2950 8600 2950
+Text Label 8500 2950 0    10   ~ 0
+GND
+Wire Wire Line
+	12800 3050 12700 3050
+Text Label 12800 3050 0    10   ~ 0
+GND
+Wire Wire Line
+	10800 1750 10800 1850
+Text Label 10800 1750 0    10   ~ 0
+GND
+Wire Wire Line
+	12600 1550 12600 1650
+Text Label 12600 1550 0    10   ~ 0
+GND
+Wire Wire Line
+	11700 5800 11250 5800
+Wire Wire Line
+	11250 5800 11050 5800
+Wire Wire Line
+	11050 5800 9850 5800
+Wire Wire Line
+	9850 5800 9650 5800
+Connection ~ 11250 5800
+Connection ~ 11050 5800
+Connection ~ 9850 5800
+Text Label 11700 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	1300 4450 1400 4450
+Text Label 1300 4450 0    10   ~ 0
+GND
+Wire Wire Line
+	1300 3550 1400 3550
+Text Label 1300 3550 0    10   ~ 0
+GND
+Wire Wire Line
+	6250 3850 6350 3850
+Text Label 6250 3850 0    10   ~ 0
+GND
+Wire Wire Line
+	7900 3950 8000 3950
+Text Label 7900 3950 0    10   ~ 0
+GND
+Wire Wire Line
+	5800 5500 6000 5500
+Text Label 6000 5500 0    70   ~ 0
+~BUSDIR
+Wire Wire Line
+	6950 6550 6950 6350
+Text Label 6950 6350 1    70   ~ 0
+~BUSDIR
+Wire Wire Line
+	4550 5100 4350 5100
+Text Label 4350 5100 2    70   ~ 0
+~RESET
+Wire Wire Line
+	6450 6400 6450 6200
+Text Label 6450 6200 1    70   ~ 0
+~RESET
+Wire Wire Line
+	6350 1750 6150 1750
+Text Label 6150 1750 2    70   ~ 0
+~RESET
+Wire Wire Line
+	4550 4800 3950 4800
+Wire Wire Line
+	3950 4800 3800 4800
+Wire Wire Line
+	3950 4800 3950 4200
+Wire Wire Line
+	3950 4200 3950 4100
+Connection ~ 3950 4200
+Connection ~ 3950 4800
+Wire Wire Line
+	3400 4800 2850 4800
+Text Label 2850 4800 2    70   ~ 0
+~SLTSL
+Wire Wire Line
+	7550 6550 7550 6350
+Text Label 7550 6350 1    70   ~ 0
+~SLTSL
+Wire Wire Line
+	4550 4900 4350 4900
+Text Label 4350 4900 2    70   ~ 0
+~MERQ
+Wire Wire Line
+	6750 6550 6750 6350
+Text Label 6750 6350 1    70   ~ 0
+~MERQ
+Wire Wire Line
+	4550 5000 4350 5000
+Text Label 4350 5000 2    70   ~ 0
+~RD
+Wire Wire Line
+	6550 6550 6550 6350
+Text Label 6550 6350 1    70   ~ 0
+~RD
+Wire Wire Line
+	12700 4150 12900 4150
+Text Label 12900 4150 0    70   ~ 0
+RSTDRV
+Wire Wire Line
+	5800 5200 6000 5200
+Text Label 6000 5200 0    70   ~ 0
+RSTDRV
+Wire Wire Line
+	12700 4050 12900 4050
+Text Label 12900 4050 0    70   ~ 0
+~AEN
+Wire Wire Line
+	5800 5100 6000 5100
+Text Label 6000 5100 0    70   ~ 0
+~AEN
+Wire Wire Line
+	6350 4050 6150 4050
+Text Label 6150 4050 2    70   ~ 0
+~OE
+Wire Wire Line
+	12000 4950 12000 5150
+Text Label 12000 5150 3    70   ~ 0
+~OE
+Wire Wire Line
+	5800 5000 6000 5000
+Text Label 6000 5000 0    70   ~ 0
+~OE
+Wire Wire Line
+	6350 3950 6150 3950
+Text Label 6150 3950 2    70   ~ 0
+~CE_FLASH
+Wire Wire Line
+	5800 4900 6000 4900
+Text Label 6000 4900 0    70   ~ 0
+~CE_FLASH
+Wire Wire Line
+	12100 4950 12100 5150
+Text Label 12100 5150 3    70   ~ 0
+~WE
+Wire Wire Line
+	5800 4800 6000 4800
+Text Label 6000 4800 0    70   ~ 0
+~WE
+Wire Wire Line
+	6350 4150 6150 4150
+Text Label 6150 4150 2    70   ~ 0
+~WE
+Wire Wire Line
+	4650 6400 4650 6200
+Text Label 4650 6200 1    70   ~ 0
+D1
+Wire Wire Line
+	12700 3750 12900 3750
+Text Label 12900 3750 0    70   ~ 0
+D1
+Wire Wire Line
+	7350 2050 7550 2050
+Text Label 7550 2050 0    70   ~ 0
+D1
+Wire Wire Line
+	4550 6550 4550 6350
+Text Label 4550 6350 1    70   ~ 0
+D0
+Wire Wire Line
+	12700 3850 12900 3850
+Text Label 12900 3850 0    70   ~ 0
+D0
+Wire Wire Line
+	7350 1950 7550 1950
+Text Label 7550 1950 0    70   ~ 0
+D0
+Wire Wire Line
+	4450 6400 4450 6200
+Text Label 4450 6200 1    70   ~ 0
+D3
+Wire Wire Line
+	12700 3550 12900 3550
+Text Label 12900 3550 0    70   ~ 0
+D3
+Wire Wire Line
+	7350 2250 7550 2250
+Text Label 7550 2250 0    70   ~ 0
+D3
+Wire Wire Line
+	4350 6550 4350 6350
+Text Label 4350 6350 1    70   ~ 0
+D2
+Wire Wire Line
+	12700 3650 12900 3650
+Text Label 12900 3650 0    70   ~ 0
+D2
+Wire Wire Line
+	7350 2150 7550 2150
+Text Label 7550 2150 0    70   ~ 0
+D2
+Wire Wire Line
+	4250 6400 4250 6200
+Text Label 4250 6200 1    70   ~ 0
+D5
+Wire Wire Line
+	12700 3350 12900 3350
+Text Label 12900 3350 0    70   ~ 0
+D5
+Wire Wire Line
+	7350 2450 7550 2450
+Text Label 7550 2450 0    70   ~ 0
+D5
+Wire Wire Line
+	4150 6550 4150 6350
+Text Label 4150 6350 1    70   ~ 0
+D4
+Wire Wire Line
+	12700 3450 12900 3450
+Text Label 12900 3450 0    70   ~ 0
+D4
+Wire Wire Line
+	7350 2350 7550 2350
+Text Label 7550 2350 0    70   ~ 0
+D4
+Wire Wire Line
+	4050 6400 4050 6200
+Text Label 4050 6200 1    70   ~ 0
+D7
+Wire Wire Line
+	12700 3150 12900 3150
+Text Label 12900 3150 0    70   ~ 0
+D7
+Wire Wire Line
+	7350 2650 7550 2650
+Text Label 7550 2650 0    70   ~ 0
+D7
+Wire Wire Line
+	3950 6550 3950 6350
+Text Label 3950 6350 1    70   ~ 0
+D6
+Wire Wire Line
+	12700 3250 12900 3250
+Text Label 12900 3250 0    70   ~ 0
+D6
+Wire Wire Line
+	7350 2550 7550 2550
+Text Label 7550 2550 0    70   ~ 0
+D6
+Wire Wire Line
+	3350 6550 3550 6550
+Wire Wire Line
+	6350 3250 6150 3250
+Text Label 6150 3250 2    70   ~ 0
+BROM-A14
+Wire Wire Line
+	9800 1850 9800 1650
+Text Label 9800 1650 1    70   ~ 0
+BROM-A14
+Wire Wire Line
+	6350 3350 6150 3350
+Text Label 6150 3350 2    70   ~ 0
+BROM-A15
+Wire Wire Line
+	9900 1850 9900 1650
+Text Label 9900 1650 1    70   ~ 0
+BROM-A15
+Wire Wire Line
+	6350 3450 6150 3450
+Text Label 6150 3450 2    70   ~ 0
+BROM-A16
+Wire Wire Line
+	10000 1850 10000 1650
+Text Label 10000 1650 1    70   ~ 0
+BROM-A16
+Wire Wire Line
+	4300 1850 4400 1850
+Text Label 4400 1850 0    70   ~ 0
+BROM-A16
+Wire Wire Line
+	6350 3550 6150 3550
+Text Label 6150 3550 2    70   ~ 0
+BROM-A17
+Wire Wire Line
+	10100 1850 10100 1650
+Text Label 10100 1650 1    70   ~ 0
+BROM-A17
+Wire Wire Line
+	4300 1650 4400 1650
+Text Label 4400 1650 0    70   ~ 0
+BROM-A17
+Wire Wire Line
+	6350 3650 6150 3650
+Text Label 6150 3650 2    70   ~ 0
+BROM-A18
+Wire Wire Line
+	10300 1850 10300 1650
+Text Label 10300 1650 1    70   ~ 0
+BROM-A18
+Wire Wire Line
+	11000 1650 11000 1850
+Wire Wire Line
+	11100 1650 11100 1850
+Wire Wire Line
+	11100 1350 11100 1250
+Wire Wire Line
+	11000 1350 11000 1250
+Wire Wire Line
+	12500 1850 12100 1850
+Wire Wire Line
+	12700 1850 12700 2450
+Wire Wire Line
+	10950 6350 11650 6350
+Wire Wire Line
+	10950 6550 11350 6550
+Wire Wire Line
+	11350 6550 11350 6450
+Wire Wire Line
+	11350 6450 11650 6450
+Wire Wire Line
+	10950 6850 11450 6850
+Wire Wire Line
+	11450 6850 11450 6550
+Wire Wire Line
+	11450 6550 11650 6550
+Wire Wire Line
+	10950 7050 11550 7050
+Wire Wire Line
+	11550 7050 11550 6850
+Wire Wire Line
+	11550 6850 11650 6850
+Wire Wire Line
+	11250 6100 11250 6950
+Wire Wire Line
+	11250 6950 10950 6950
+Wire Wire Line
+	11050 6100 11050 6450
+Wire Wire Line
+	11050 6450 10950 6450
+Wire Wire Line
+	9850 6100 9850 6450
+Wire Wire Line
+	9850 6450 9950 6450
+Wire Wire Line
+	9650 6100 9650 6950
+Wire Wire Line
+	9650 6950 9950 6950
+Wire Wire Line
+	12700 2850 13150 2850
+Text Label 13150 2850 0    70   ~ 0
+TPOUT-
+Wire Wire Line
+	9950 6550 9050 6550
+Text Label 9050 6550 2    70   ~ 0
+TPOUT-
+Wire Wire Line
+	12700 2950 13150 2950
+Text Label 13150 2950 0    70   ~ 0
+TPOUT+
+Wire Wire Line
+	9950 6350 9050 6350
+Text Label 9050 6350 2    70   ~ 0
+TPOUT+
+Wire Wire Line
+	11400 1850 11400 1400
+Text Label 11400 1400 1    70   ~ 0
+TPIN-
+Wire Wire Line
+	9950 7050 9650 7050
+Wire Wire Line
+	9650 7050 9650 7250
+Wire Wire Line
+	9650 7250 9300 7250
+Wire Wire Line
+	9300 7250 9050 7250
+Connection ~ 9300 7250
+Text Label 9050 7250 2    70   ~ 0
+TPIN-
+Wire Wire Line
+	11300 1850 11300 1400
+Text Label 11300 1400 1    70   ~ 0
+TPIN+
+Wire Wire Line
+	9950 6850 9300 6850
+Wire Wire Line
+	9300 6850 9050 6850
+Connection ~ 9300 6850
+Text Label 9050 6850 2    70   ~ 0
+TPIN+
+Wire Wire Line
+	5800 5400 6000 5400
+Text Label 6000 5400 0    70   ~ 0
+NC_13
+Wire Wire Line
+	5800 5300 6000 5300
+Text Label 6000 5300 0    70   ~ 0
+NC_14
+Wire Wire Line
+	9600 1850 9600 1650
+Text Label 9600 1650 1    70   ~ 0
+EECS
+Wire Wire Line
+	2200 3150 2600 3150
+Text Label 2600 3150 0    70   ~ 0
+EECS
+Wire Wire Line
+	2200 4050 2600 4050
+Text Label 2600 4050 0    70   ~ 0
+EECS
+Wire Wire Line
+	9300 1850 9300 1650
+Text Label 9300 1650 1    70   ~ 0
+EESK
+Wire Wire Line
+	2200 3350 2600 3350
+Text Label 2600 3350 0    70   ~ 0
+EESK
+Wire Wire Line
+	2200 4250 2600 4250
+Text Label 2600 4250 0    70   ~ 0
+EESK
+Wire Wire Line
+	9400 1850 9400 1650
+Text Label 9400 1650 1    70   ~ 0
+EEDI
+Wire Wire Line
+	2200 3050 2600 3050
+Text Label 2600 3050 0    70   ~ 0
+EEDI
+Wire Wire Line
+	2200 3950 2600 3950
+Text Label 2600 3950 0    70   ~ 0
+EEDI
+Wire Wire Line
+	9500 1850 9500 1650
+Text Label 9500 1650 1    70   ~ 0
+EEDO
+Wire Wire Line
+	2200 2950 2600 2950
+Text Label 2600 2950 0    70   ~ 0
+EEDO
+Wire Wire Line
+	2200 3850 2600 3850
+Text Label 2600 3850 0    70   ~ 0
+EEDO
+Wire Wire Line
+	8600 3950 8400 3950
+Wire Wire Line
+	750  7800 13900 7800
+$Comp
+L obsonet_1-eagle-import:C-EUC1206K C1
+U 1 1 3E9ECBAC
+P 2800 1650
+F 0 "C1" H 2860 1665 59  0000 L BNN
+F 1 "100nF" H 2860 1465 59  0000 L BNN
+F 2 "obsonet_1:C1206K" H 2800 1650 50  0001 C CNN
+F 3 "" H 2800 1650 50  0001 C CNN
+	1    2800 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EUC1206K C2
+U 1 1 761BF58F
+P 2500 1650
+F 0 "C2" H 2560 1665 59  0000 L BNN
+F 1 "100nF" H 2560 1465 59  0000 L BNN
+F 2 "obsonet_1:C1206K" H 2500 1650 50  0001 C CNN
+F 3 "" H 2500 1650 50  0001 C CNN
+	1    2500 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EUC1206K C3
+U 1 1 15F46D77
+P 2250 1650
+F 0 "C3" H 2310 1665 59  0000 L BNN
+F 1 "100nF" H 2310 1465 59  0000 L BNN
+F 2 "obsonet_1:C1206K" H 2250 1650 50  0001 C CNN
+F 3 "" H 2250 1650 50  0001 C CNN
+	1    2250 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EUC1206K C4
+U 1 1 375CDECD
+P 2000 1650
+F 0 "C4" H 2060 1665 59  0000 L BNN
+F 1 "100nF" H 2060 1465 59  0000 L BNN
+F 2 "obsonet_1:C1206K" H 2000 1650 50  0001 C CNN
+F 3 "" H 2000 1650 50  0001 C CNN
+	1    2000 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:CPOL-EUE2.5-5 C6
+U 1 1 DAF5255C
+P 3050 1650
+F 0 "C6" H 3095 1669 59  0000 L BNN
+F 1 "100uF" H 3095 1469 59  0000 L BNN
+F 2 "obsonet_1:E2,5-5" H 3050 1650 50  0001 C CNN
+F 3 "" H 3050 1650 50  0001 C CNN
+	1    3050 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R1
+U 1 1 ECAD24B5
+P 3600 4800
+F 0 "R1" H 3450 4859 59  0000 L BNN
+F 1 "11K" H 3450 4670 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 3600 4800 50  0001 C CNN
+F 3 "" H 3600 4800 50  0001 C CNN
+	1    3600 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R2
+U 1 1 76AD2122
+P 11000 1050
+F 0 "R2" H 10850 1109 59  0000 L BNN
+F 1 "300R" H 10850 920 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 11000 1050 50  0001 C CNN
+F 3 "" H 11000 1050 50  0001 C CNN
+	1    11000 1050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R3
+U 1 1 D113E6E9
+P 11100 1050
+F 0 "R3" H 10950 1109 59  0000 L BNN
+F 1 "300R" H 10950 920 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 11100 1050 50  0001 C CNN
+F 3 "" H 11100 1050 50  0001 C CNN
+	1    11100 1050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R4
+U 1 1 CDCBD232
+P 4100 1850
+F 0 "R4" H 3950 1909 59  0000 L BNN
+F 1 "11K" H 3950 1720 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 4100 1850 50  0001 C CNN
+F 3 "" H 4100 1850 50  0001 C CNN
+	1    4100 1850
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R5
+U 1 1 52733BAA
+P 4100 1650
+F 0 "R5" H 3950 1709 59  0000 L BNN
+F 1 "11K" H 3950 1520 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 4100 1650 50  0001 C CNN
+F 3 "" H 4100 1650 50  0001 C CNN
+	1    4100 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R6
+U 1 1 36DC8855
+P 8200 3950
+F 0 "R6" H 8050 4009 59  0000 L BNN
+F 1 "27K" H 8050 3820 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 8200 3950 50  0001 C CNN
+F 3 "" H 8200 3950 50  0001 C CNN
+	1    8200 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:R-EU_R1206 R7
+U 1 1 5510F38C
+P 9300 7050
+F 0 "R7" H 9150 7109 59  0000 L BNN
+F 1 "200R" H 9150 6920 59  0000 L BNN
+F 2 "obsonet_1:R1206" H 9300 7050 50  0001 C CNN
+F 3 "" H 9300 7050 50  0001 C CNN
+	1    9300 7050
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:555153-1 CON2
+U 1 1 A4DCD4E6
+P 11850 6650
+F 0 "CON2" H 11650 7050 59  0000 L BNN
+F 1 "RJ45_H" H 11650 6130 59  0000 L BNN
+F 2 "obsonet_1:555153-1" H 11850 6650 50  0001 C CNN
+F 3 "" H 11850 6650 50  0001 C CNN
+	1    11850 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:AT93CX6SOIC08 IC2
+U 1 1 6767AB62
+P 1800 3250
+F 0 "IC2" H 1500 3675 59  0000 L BNN
+F 1 "93C46_SOIC" H 1750 3700 59  0000 L BNN
+F 2 "obsonet_1:SOIC8" H 1800 3250 50  0001 C CNN
+F 3 "" H 1800 3250 50  0001 C CNN
+	1    1800 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:HC49GW Q1
+U 1 1 4C6A443B
+P 12600 1850
+F 0 "Q1" H 12700 1890 59  0000 L BNN
+F 1 "20MHz" H 12700 1750 59  0000 L BNN
+F 2 "obsonet_1:HC49GW" H 12600 1850 50  0001 C CNN
+F 3 "" H 12600 1850 50  0001 C CNN
+	1    12600 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:20F001N TF1
+U 1 1 0841EC61
+P 10450 6700
+F 0 "TF1" H 10450 6700 50  0001 C CNN
+F 1 "20F001N" H 10450 6700 50  0001 C CNN
+F 2 "obsonet_1:DIL16_12" H 10450 6700 50  0001 C CNN
+F 3 "" H 10450 6700 50  0001 C CNN
+	1    10450 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EU050-030X075 C7
+U 1 1 7F12362D
+P 9850 5900
+F 0 "C7" H 10050 5900 59  0000 L BNN
+F 1 "10nF" H 10000 5800 59  0000 L BNN
+F 2 "obsonet_1:C050-030X075" H 9850 5900 50  0001 C CNN
+F 3 "" H 9850 5900 50  0001 C CNN
+	1    9850 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EU050-030X075 C8
+U 1 1 A4EED806
+P 9650 5900
+F 0 "C8" H 9400 5950 59  0000 L BNN
+F 1 "10nF" H 9350 5850 59  0000 L BNN
+F 2 "obsonet_1:C050-030X075" H 9650 5900 50  0001 C CNN
+F 3 "" H 9650 5900 50  0001 C CNN
+	1    9650 5900
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EU050-030X075 C9
+U 1 1 E1198BD2
+P 11250 6000
+F 0 "C9" H 11050 6000 59  0000 L BNN
+F 1 "10nF" H 10950 5850 59  0000 L BNN
+F 2 "obsonet_1:C050-030X075" H 11250 6000 50  0001 C CNN
+F 3 "" H 11250 6000 50  0001 C CNN
+	1    11250 6000
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:C-EU050-030X075 C10
+U 1 1 796A0EDD
+P 11050 6000
+F 0 "C10" H 11110 6015 59  0000 L BNN
+F 1 "10nF" H 11110 5815 59  0000 L BNN
+F 2 "obsonet_1:C050-030X075" H 11050 6000 50  0001 C CNN
+F 3 "" H 11050 6000 50  0001 C CNN
+	1    11050 6000
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:74133DIP IC3
+U 1 1 E903DA65
+P 4500 2700
+F 0 "IC3" H 4650 2600 59  0000 L BNN
+F 1 "74HC133" H 4700 2225 59  0001 L BNN
+F 2 "obsonet_1:DIP16" H 4500 2700 50  0001 C CNN
+F 3 "" H 4500 2700 50  0001 C CNN
+	1    4500 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+01
+U 1 1 BCDF72C5
+P 3150 2500
+F 0 "#P+01" H 3150 2500 50  0001 C CNN
+F 1 "VCC" V 3050 2400 59  0000 L BNN
+F 2 "" H 3150 2500 50  0001 C CNN
+F 3 "" H 3150 2500 50  0001 C CNN
+	1    3150 2500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+02
+U 1 1 339DE9D3
+P 3300 2600
+F 0 "#P+02" H 3300 2600 50  0001 C CNN
+F 1 "VCC" V 3200 2500 59  0000 L BNN
+F 2 "" H 3300 2600 50  0001 C CNN
+F 3 "" H 3300 2600 50  0001 C CNN
+	1    3300 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+03
+U 1 1 00F05DF6
+P 3450 2700
+F 0 "#P+03" H 3450 2700 50  0001 C CNN
+F 1 "VCC" V 3350 2600 59  0000 L BNN
+F 2 "" H 3450 2700 50  0001 C CNN
+F 3 "" H 3450 2700 50  0001 C CNN
+	1    3450 2700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+04
+U 1 1 A7FDB2D8
+P 3600 2800
+F 0 "#P+04" H 3600 2800 50  0001 C CNN
+F 1 "VCC" V 3500 2700 59  0000 L BNN
+F 2 "" H 3600 2800 50  0001 C CNN
+F 3 "" H 3600 2800 50  0001 C CNN
+	1    3600 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND01
+U 1 1 DB8695AC
+P 6100 5600
+F 0 "#GND01" H 6100 5600 50  0001 C CNN
+F 1 "GND" H 6000 5500 59  0000 L BNN
+F 2 "" H 6100 5600 50  0001 C CNN
+F 3 "" H 6100 5600 50  0001 C CNN
+	1    6100 5600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND02
+U 1 1 13A376EC
+P 4250 5600
+F 0 "#GND02" H 4250 5600 50  0001 C CNN
+F 1 "GND" H 4150 5500 59  0000 L BNN
+F 2 "" H 4250 5600 50  0001 C CNN
+F 3 "" H 4250 5600 50  0001 C CNN
+	1    4250 5600
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND03
+U 1 1 7679BDCC
+P 4250 4700
+F 0 "#GND03" H 4250 4700 50  0001 C CNN
+F 1 "GND" H 4150 4600 59  0000 L BNN
+F 2 "" H 4250 4700 50  0001 C CNN
+F 3 "" H 4250 4700 50  0001 C CNN
+	1    4250 4700
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+05
+U 1 1 33ACA7EC
+P 6100 4700
+F 0 "#P+05" H 6100 4700 50  0001 C CNN
+F 1 "VCC" V 6000 4600 59  0000 L BNN
+F 2 "" H 6100 4700 50  0001 C CNN
+F 3 "" H 6100 4700 50  0001 C CNN
+	1    6100 4700
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GAL16V8D IC6
+U 1 1 D8ADA834
+P 5150 5150
+F 0 "IC6" H 5150 5150 50  0001 C CNN
+F 1 "GAL16V8D" H 5150 5150 50  0001 C CNN
+F 2 "obsonet_1:DIL20_SQUARE_1.5MM" H 5150 5150 50  0001 C CNN
+F 3 "" H 5150 5150 50  0001 C CNN
+	1    5150 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+06
+U 1 1 B0F39303
+P 3450 5950
+F 0 "#P+06" H 3450 5950 50  0001 C CNN
+F 1 "VCC" V 3350 5850 59  0000 L BNN
+F 2 "" H 3450 5950 50  0001 C CNN
+F 3 "" H 3450 5950 50  0001 C CNN
+	1    3450 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND05
+U 1 1 EF27308A
+P 3850 5950
+F 0 "#GND05" H 3850 5950 50  0001 C CNN
+F 1 "GND" H 3750 5850 59  0000 L BNN
+F 2 "" H 3850 5950 50  0001 C CNN
+F 3 "" H 3850 5950 50  0001 C CNN
+	1    3850 5950
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+07
+U 1 1 BC2DCEA9
+P 3250 5950
+F 0 "#P+07" H 3250 5950 50  0001 C CNN
+F 1 "VCC" V 3150 5850 59  0000 L BNN
+F 2 "" H 3250 5950 50  0001 C CNN
+F 3 "" H 3250 5950 50  0001 C CNN
+	1    3250 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND06
+U 1 1 A07C0193
+P 3650 5950
+F 0 "#GND06" H 3650 5950 50  0001 C CNN
+F 1 "GND" H 3550 5850 59  0000 L BNN
+F 2 "" H 3650 5950 50  0001 C CNN
+F 3 "" H 3650 5950 50  0001 C CNN
+	1    3650 5950
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+08
+U 1 1 B54CCCBB
+P 1500 1550
+F 0 "#P+08" H 1500 1550 50  0001 C CNN
+F 1 "VCC" V 1400 1450 59  0000 L BNN
+F 2 "" H 1500 1550 50  0001 C CNN
+F 3 "" H 1500 1550 50  0001 C CNN
+	1    1500 1550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND07
+U 1 1 9CDE76EF
+P 1500 1850
+F 0 "#GND07" H 1500 1850 50  0001 C CNN
+F 1 "GND" H 1400 1750 59  0000 L BNN
+F 2 "" H 1500 1850 50  0001 C CNN
+F 3 "" H 1500 1850 50  0001 C CNN
+	1    1500 1850
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND08
+U 1 1 DF24F9E8
+P 10500 5150
+F 0 "#GND08" H 10500 5150 50  0001 C CNN
+F 1 "GND" H 10400 5050 59  0000 L BNN
+F 2 "" H 10500 5150 50  0001 C CNN
+F 3 "" H 10500 5150 50  0001 C CNN
+	1    10500 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+09
+U 1 1 540F2EFD
+P 10700 5150
+F 0 "#P+09" H 10700 5150 50  0001 C CNN
+F 1 "VCC" V 10600 5050 59  0000 L BNN
+F 2 "" H 10700 5150 50  0001 C CNN
+F 3 "" H 10700 5150 50  0001 C CNN
+	1    10700 5150
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND09
+U 1 1 928DF91D
+P 11100 5150
+F 0 "#GND09" H 11100 5150 50  0001 C CNN
+F 1 "GND" H 11000 5050 59  0000 L BNN
+F 2 "" H 11100 5150 50  0001 C CNN
+F 3 "" H 11100 5150 50  0001 C CNN
+	1    11100 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+010
+U 1 1 99CC31BE
+P 9700 5550
+F 0 "#P+010" H 9700 5550 50  0001 C CNN
+F 1 "VCC" V 9600 5450 59  0000 L BNN
+F 2 "" H 9700 5550 50  0001 C CNN
+F 3 "" H 9700 5550 50  0001 C CNN
+	1    9700 5550
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:MICROPULSADOR_6X6 SW1
+U 1 1 D04045ED
+P 3750 4100
+F 0 "SW1" V 3475 4025 59  0000 L BNN
+F 1 "SWITCH" V 3575 4200 59  0000 L BNN
+F 2 "obsonet_1:MICROPULSADOR_6X6" H 3750 4100 50  0001 C CNN
+F 3 "" H 3750 4100 50  0001 C CNN
+	1    3750 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:LED3MM LED1
+U 1 1 3C888371
+P 11100 1450
+F 0 "LED1" V 11240 1270 59  0000 L BNN
+F 1 "GREEN" V 11325 1270 59  0000 L BNN
+F 2 "obsonet_1:LED3MM" H 11100 1450 50  0001 C CNN
+F 3 "" H 11100 1450 50  0001 C CNN
+	1    11100 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:LED3MM LED2
+U 1 1 A73BBAC7
+P 11000 1450
+F 0 "LED2" V 11140 1270 59  0000 L BNN
+F 1 "ORANGE" V 11225 1270 59  0000 L BNN
+F 2 "obsonet_1:LED3MM" H 11000 1450 50  0001 C CNN
+F 3 "" H 11000 1450 50  0001 C CNN
+	1    11000 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+011
+U 1 1 FBD5C941
+P 3900 1350
+F 0 "#P+011" H 3900 1350 50  0001 C CNN
+F 1 "VCC" V 3800 1250 59  0000 L BNN
+F 2 "" H 3900 1350 50  0001 C CNN
+F 3 "" H 3900 1350 50  0001 C CNN
+	1    3900 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+012
+U 1 1 E517971B
+P 10200 1650
+F 0 "#P+012" H 10200 1650 50  0001 C CNN
+F 1 "VCC" V 10100 1550 59  0000 L BNN
+F 2 "" H 10200 1650 50  0001 C CNN
+F 3 "" H 10200 1650 50  0001 C CNN
+	1    10200 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+013
+U 1 1 9B33CC1C
+P 13000 2750
+F 0 "#P+013" H 13000 2750 50  0001 C CNN
+F 1 "VCC" V 12900 2650 59  0000 L BNN
+F 2 "" H 13000 2750 50  0001 C CNN
+F 3 "" H 13000 2750 50  0001 C CNN
+	1    13000 2750
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+014
+U 1 1 A9B0ECED
+P 8400 3250
+F 0 "#P+014" H 8400 3250 50  0001 C CNN
+F 1 "VCC" V 8300 3150 59  0000 L BNN
+F 2 "" H 8400 3250 50  0001 C CNN
+F 3 "" H 8400 3250 50  0001 C CNN
+	1    8400 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND011
+U 1 1 19DA8D48
+P 12000 1650
+F 0 "#GND011" H 12000 1650 50  0001 C CNN
+F 1 "GND" H 11900 1550 59  0000 L BNN
+F 2 "" H 12000 1650 50  0001 C CNN
+F 3 "" H 12000 1650 50  0001 C CNN
+	1    12000 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND012
+U 1 1 A5F18D96
+P 8400 2650
+F 0 "#GND012" H 8400 2650 50  0001 C CNN
+F 1 "GND" H 8300 2550 59  0000 L BNN
+F 2 "" H 8400 2650 50  0001 C CNN
+F 3 "" H 8400 2650 50  0001 C CNN
+	1    8400 2650
+	0    1    -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND013
+U 1 1 9E3D6951
+P 8400 2950
+F 0 "#GND013" H 8400 2950 50  0001 C CNN
+F 1 "GND" H 8300 2850 59  0000 L BNN
+F 2 "" H 8400 2950 50  0001 C CNN
+F 3 "" H 8400 2950 50  0001 C CNN
+	1    8400 2950
+	0    1    -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND014
+U 1 1 109F320A
+P 12900 3050
+F 0 "#GND014" H 12900 3050 50  0001 C CNN
+F 1 "GND" H 12800 2950 59  0000 L BNN
+F 2 "" H 12900 3050 50  0001 C CNN
+F 3 "" H 12900 3050 50  0001 C CNN
+	1    12900 3050
+	0    -1   1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+015
+U 1 1 E802E752
+P 11500 1650
+F 0 "#P+015" H 11500 1650 50  0001 C CNN
+F 1 "VCC" V 11400 1550 59  0000 L BNN
+F 2 "" H 11500 1650 50  0001 C CNN
+F 3 "" H 11500 1650 50  0001 C CNN
+	1    11500 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+016
+U 1 1 483164F1
+P 3200 4100
+F 0 "#P+016" H 3200 4100 50  0001 C CNN
+F 1 "VCC" V 3100 4000 59  0000 L BNN
+F 2 "" H 3200 4100 50  0001 C CNN
+F 3 "" H 3200 4100 50  0001 C CNN
+	1    3200 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND04
+U 1 1 D896219B
+P 10800 1650
+F 0 "#GND04" H 10800 1650 50  0001 C CNN
+F 1 "GND" H 10700 1550 59  0000 L BNN
+F 2 "" H 10800 1650 50  0001 C CNN
+F 3 "" H 10800 1650 50  0001 C CNN
+	1    10800 1650
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+017
+U 1 1 E83F5DEA
+P 10700 1650
+F 0 "#P+017" H 10700 1650 50  0001 C CNN
+F 1 "VCC" V 10600 1550 59  0000 L BNN
+F 2 "" H 10700 1650 50  0001 C CNN
+F 3 "" H 10700 1650 50  0001 C CNN
+	1    10700 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+018
+U 1 1 21F8E9C7
+P 11450 850
+F 0 "#P+018" H 11450 850 50  0001 C CNN
+F 1 "VCC" V 11350 750 59  0000 L BNN
+F 2 "" H 11450 850 50  0001 C CNN
+F 3 "" H 11450 850 50  0001 C CNN
+	1    11450 850 
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND010
+U 1 1 845C69E3
+P 12600 1450
+F 0 "#GND010" H 12600 1450 50  0001 C CNN
+F 1 "GND" H 12500 1350 59  0000 L BNN
+F 2 "" H 12600 1450 50  0001 C CNN
+F 3 "" H 12600 1450 50  0001 C CNN
+	1    12600 1450
+	-1   0    0    1   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND015
+U 1 1 257B06B4
+P 11800 5800
+F 0 "#GND015" H 11800 5800 50  0001 C CNN
+F 1 "GND" H 11700 5700 59  0000 L BNN
+F 2 "" H 11800 5800 50  0001 C CNN
+F 3 "" H 11800 5800 50  0001 C CNN
+	1    11800 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:AT93CX6DIP8 IC5
+U 1 1 9540B6E1
+P 1800 4150
+F 0 "IC5" H 1500 4550 59  0000 L BNN
+F 1 "93C46_DIL" H 1700 4550 59  0000 L BNN
+F 2 "obsonet_1:DIP8" H 1800 4150 50  0001 C CNN
+F 3 "" H 1800 4150 50  0001 C CNN
+	1    1800 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND016
+U 1 1 99D4D269
+P 1200 4450
+F 0 "#GND016" H 1200 4450 50  0001 C CNN
+F 1 "GND" H 1100 4350 59  0000 L BNN
+F 2 "" H 1200 4450 50  0001 C CNN
+F 3 "" H 1200 4450 50  0001 C CNN
+	1    1200 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+019
+U 1 1 A2BCAE6A
+P 1200 3850
+F 0 "#P+019" H 1200 3850 50  0001 C CNN
+F 1 "VCC" V 1100 3750 59  0000 L BNN
+F 2 "" H 1200 3850 50  0001 C CNN
+F 3 "" H 1200 3850 50  0001 C CNN
+	1    1200 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND017
+U 1 1 0A5A0AC8
+P 1200 3550
+F 0 "#GND017" H 1200 3550 50  0001 C CNN
+F 1 "GND" H 1100 3450 59  0000 L BNN
+F 2 "" H 1200 3550 50  0001 C CNN
+F 3 "" H 1200 3550 50  0001 C CNN
+	1    1200 3550
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+020
+U 1 1 0B44AC3A
+P 1200 2950
+F 0 "#P+020" H 1200 2950 50  0001 C CNN
+F 1 "VCC" V 1100 2850 59  0000 L BNN
+F 2 "" H 1200 2950 50  0001 C CNN
+F 3 "" H 1200 2950 50  0001 C CNN
+	1    1200 2950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+021
+U 1 1 AF5215F4
+P 2400 3450
+F 0 "#P+021" H 2400 3450 50  0001 C CNN
+F 1 "VCC" V 2300 3350 59  0000 L BNN
+F 2 "" H 2400 3450 50  0001 C CNN
+F 3 "" H 2400 3450 50  0001 C CNN
+	1    2400 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+022
+U 1 1 DE82DA3E
+P 2400 4350
+F 0 "#P+022" H 2400 4350 50  0001 C CNN
+F 1 "VCC" V 2300 4250 59  0000 L BNN
+F 2 "" H 2400 4350 50  0001 C CNN
+F 3 "" H 2400 4350 50  0001 C CNN
+	1    2400 4350
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND018
+U 1 1 E0081D19
+P 6150 3850
+F 0 "#GND018" H 6150 3850 50  0001 C CNN
+F 1 "GND" H 6050 3750 59  0000 L BNN
+F 2 "" H 6150 3850 50  0001 C CNN
+F 3 "" H 6150 3850 50  0001 C CNN
+	1    6150 3850
+	0    1    -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:GND #GND019
+U 1 1 48B3EBD8
+P 7800 3950
+F 0 "#GND019" H 7800 3950 50  0001 C CNN
+F 1 "GND" H 7700 3850 59  0000 L BNN
+F 2 "" H 7800 3950 50  0001 C CNN
+F 3 "" H 7800 3950 50  0001 C CNN
+	1    7800 3950
+	0    1    -1   0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:VCC #P+023
+U 1 1 3F3FBE72
+P 13000 4350
+F 0 "#P+023" H 13000 4350 50  0001 C CNN
+F 1 "VCC" V 12900 4250 59  0000 L BNN
+F 2 "" H 13000 4350 50  0001 C CNN
+F 3 "" H 13000 4350 50  0001 C CNN
+	1    13000 4350
+	0    1    1    0   
+$EndComp
+$Comp
+L obsonet_1-eagle-import:RTL8019AS IC4
+U 1 1 46657C43
+P 10600 3450
+F 0 "IC4" H 10550 3400 51  0000 L BNN
+F 1 "RTL8019AS" H 10600 3450 50  0001 C CNN
+F 2 "obsonet_1:RTL8019AS" H 10600 3450 50  0001 C CNN
+F 3 "" H 10600 3450 50  0001 C CNN
+	1    10600 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:M29F400M IC1
+U 1 1 06F92037
+P 6850 2950
+F 0 "IC1" V 6880 3000 59  0000 L BNN
+F 1 "M29F400M" H 6450 1550 59  0001 L BNN
+F 2 "obsonet_1:SO44" H 6850 2950 50  0001 C CNN
+F 3 "" H 6850 2950 50  0001 C CNN
+	1    6850 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:MSXCARTMSXCART CON1
+U 1 1 85F4E281
+P 5450 6950
+F 0 "CON1" H 5450 6950 50  0001 C CNN
+F 1 "CART_BOARD" H 5450 6950 50  0001 C CNN
+F 2 "obsonet_1:MSXCART" H 5450 6950 50  0001 C CNN
+F 3 "" H 5450 6950 50  0001 C CNN
+	1    5450 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L obsonet_1-eagle-import:OSHW_LOGO_FILLX0500-NT LOGO1
+U 1 1 8712EDD9
+P 8000 5200
+F 0 "LOGO1" H 8000 5200 50  0001 C CNN
+F 1 "OSHW_LOGO_FILLX0500-NT" H 8000 5200 50  0001 C CNN
+F 2 "obsonet_1:OSHW_FILLX500_NOTEXT" H 8000 5200 50  0001 C CNN
+F 3 "" H 8000 5200 50  0001 C CNN
+	1    8000 5200
+	1    0    0    -1  
+$EndComp
+Text Notes 1200 8450 0    200  ~ 40
+OBSONET V1.0
+Text Notes 1200 9000 0    200  ~ 40
+DESIGNER: DANIEL BERDUGO GONZALEZ
+Text Notes 1200 9550 0    200  ~ 40
+Licensed under CERN OHL v.1.1
+Text GLabel 11225 9495 0    10   BiDi ~ 0
+VCC
+$Comp
+L obsonet_1-eagle-import:M29F400M IC1
+U 3 1 BC72CF67
+P 11225 9595
+AR Path="/BC72CF67" Ref="IC1"  Part="3" 
+AR Path="/" Ref="IC1"  Part="3" 
+F 0 "IC1" V 11255 9645 59  0000 L BNN
+F 1 "M29F400M" H 10825 8195 59  0001 L BNN
+F 2 "obsonet_1:SO44" H 11225 9595 50  0001 C CNN
+F 3 "" H 11225 9595 50  0001 C CNN
+	3    11225 9595
+	1    0    0    -1  
+$EndComp
+Text GLabel 11726 9695 0    10   BiDi ~ 0
+GND
+$Comp
+L obsonet_1-eagle-import:M29F400M IC1
+U 4 1 BC72CF7B
+P 11726 9595
+AR Path="/BC72CF7B" Ref="IC1"  Part="4" 
+AR Path="/" Ref="IC1"  Part="4" 
+F 0 "IC1" V 11756 9645 59  0000 L BNN
+F 1 "M29F400M" H 11326 8195 59  0001 L BNN
+F 2 "obsonet_1:SO44" H 11726 9595 50  0001 C CNN
+F 3 "" H 11726 9595 50  0001 C CNN
+	4    11726 9595
+	1    0    0    -1  
+$EndComp
+Text GLabel 12227 9690 0    10   BiDi ~ 0
+GND
+$Comp
+L obsonet_1-eagle-import:M29F400M IC1
+U 5 1 BC72CF7F
+P 12227 9590
+AR Path="/BC72CF7F" Ref="IC1"  Part="5" 
+AR Path="/" Ref="IC1"  Part="5" 
+F 0 "IC1" V 12257 9640 59  0000 L BNN
+F 1 "M29F400M" H 11827 8190 59  0001 L BNN
+F 2 "obsonet_1:SO44" H 12227 9590 50  0001 C CNN
+F 3 "" H 12227 9590 50  0001 C CNN
+	5    12227 9590
+	1    0    0    -1  
+$EndComp
+Text GLabel 12728 8431 0    10   BiDi ~ 0
+VCC
+Text GLabel 12728 9031 0    10   BiDi ~ 0
+GND
+$Comp
+L obsonet_1-eagle-import:74133DIP IC3
+U 2 1 E903DA69
+P 12728 8731
+AR Path="/E903DA69" Ref="IC3"  Part="2" 
+AR Path="/" Ref="IC3"  Part="2" 
+F 0 "IC3" H 12703 8706 59  0000 L BNN
+F 1 "74HC133" H 12928 8256 59  0001 L BNN
+F 2 "obsonet_1:DIP16" H 12728 8731 50  0001 C CNN
+F 3 "" H 12728 8731 50  0001 C CNN
+	2    12728 8731
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
